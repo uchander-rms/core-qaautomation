@@ -1,0 +1,11 @@
+QAAutomationObjects/TestCaseType.class
+QAAutomationObjects/TestCaseOutput.class
+QAAutomationObjects/TestCaseResult.class
+QAAutomationObjects/UserCredentials.class
+QAAutomationObjects/Environment.class
+QAAutomationObjects/TestCase.class
+QAAutomationObjects/HostCredentials.class
+QAAutomationObjects/TestCaseResultOutput.class
+QAAutomationObjects/Workflow.class
+QAAutomationObjects/WorkflowTestCase.class
+QAAutomationObjects/TestRailStatus.class

@@ -1,0 +1,31 @@
+
+# Connection parameters
+connection:
+    url: jdbc:sqlserver://E-Strcls1db-01.lab.rmsonecloud.net:1433;databaseName=QAAutomation;user=auto;password=_Stress5
+    poolSize: 5
+    jdbc_driver: com.mysql.jdbc.Driver
+
+# Users
+users:
+    lana_all: lana_all
+
+#Target Environment
+environment:
+    name: https://l-testclus-31.lab.rmsonecloud.net
+    authenticationPort: 6001
+    accountPort: 6002
+
+#Email Section
+email:
+    emailTo: umesh.chander@rms.com
+    emailCC: umesh.chander@rms.com
+    emailInterval: 240
+
+#TestRail section
+testRail:
+    trUpdateStatus: yes
+    trURL: https://rmsqa.testrail.net/
+    trUser: umesh.chander@rms.com
+    trPass: RMSindia!@987
+    trRunId: 9659
+

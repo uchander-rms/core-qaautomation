@@ -1,1 +1,1 @@
-# core-qaautomation
+# QAAutomation

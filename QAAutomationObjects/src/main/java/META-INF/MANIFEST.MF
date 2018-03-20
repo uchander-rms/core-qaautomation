@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/uchander/Desktop/Git/QAAutomation/QAAutomationRunne
+ r/src/main/java/QAAutomationRunner/App.java
+Main-Class: QAAutomationRunner.App
+
